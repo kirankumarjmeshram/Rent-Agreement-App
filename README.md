@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Rent Agreement App
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Deployed Link : [Rent Agreement](https://647d9e1d33068045782c9753--exquisite-kheer-db34bf.netlify.app/)
